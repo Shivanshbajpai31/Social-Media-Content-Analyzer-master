@@ -27,4 +27,4 @@ Social Media Content Analyzer is a web application that allows users to analyze 
    - Dark/Light mode toggle
    - Intuitive interface for uploading files and viewing results.
    - Displays extracted text and analysis in a user-friendly format.
-  # Live Link : 
+  # Live Link : https://social-media-content-analyzer-master.vercel.app/
